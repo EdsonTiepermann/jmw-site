@@ -1,2 +1,2 @@
-# jmw-site
-Repositório referênte ao site da empresa JMW
+# sistema-sabia
+sabiá vendas e locações
