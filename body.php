@@ -1,3 +1,12 @@
+<style>
+     * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+
+        /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    }
+</style>
 <body style="padding: 0; margin: 0;">
 
 <?php include 'config.php'; ?>
@@ -33,6 +42,8 @@
         </div>
     </div>
 </main>
+
+<?php include_once 'cardAnimation.php'; ?>
 <?php include_once 'clients.php'; ?>
 
 <?php include_once 'info-parallax.php'; ?>

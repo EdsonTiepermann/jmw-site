@@ -1,4 +1,11 @@
 <?php include 'config.php'; ?>
+<style>
+    .container-fluid{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+</style>
 <header>
     <div class="container-fluid" id="nav-container">
         <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #4e60b7;">

@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container-fluid">
     <div id="mainSlider" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#mainSlider" data-slide-to="0" class="active"></li>
@@ -7,7 +7,7 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class=" w-100 d-block opacity-75" src="./img/industria-interior.jpg" alt="Apresentação">
+                <img class=" w-100 d-block opacity-75" src="./img/industria-interior-menor.jpg" alt="Apresentação">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 >JMW Soluções industriais</h2>
                     <p>Estamos prontos para atender você!</p>
@@ -15,7 +15,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class=" w-100 opacity-75" src="./img/industria-externa.jpg" alt="Second slide">
+                <img class=" w-100 opacity-75" src="./img/industria-externa-menor.jpg" alt="Second slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="">texto que quiser aqui</h2>
                     <p>conte nonosco suhauhasuhas</p>
@@ -23,7 +23,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class=" w-100 opacity-75" src="./img/industria1.jpg" alt="Vendas">
+                <img class=" w-100 opacity-75" src="./img/industria1-menor.jpg" alt="Vendas">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="">Você está em nosso topo</h2>
                     <p>subtexto aq</p>
